@@ -1,3 +1,5 @@
+create database moneyflow;
+
 use moneyflow;
 
 CREATE TABLE IF NOT EXISTS `member` (
